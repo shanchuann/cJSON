@@ -41,7 +41,6 @@
 #include <limits.h>
 #include <math.h>
 #include <float.h>
-#include <math.h>
 
 #if defined(_MSC_VER)
 #pragma warning (pop)
